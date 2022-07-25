@@ -1,0 +1,3 @@
+public enum AnimalType {
+    REPTILE, AMPHIBIAN, ARTHROPOD, MAMMALS, AQUATIC, BIRD
+}
